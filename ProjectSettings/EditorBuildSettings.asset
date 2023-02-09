@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 7d1c9185408dc54408137ff8948cbdc5
+  - enabled: 1
+    path: Assets/Scenes/SelectData.unity
+    guid: af63c3a35b617c5449d6584a9ceae6fe
+  - enabled: 1
+    path: Assets/Scenes/PlayExplain1.unity
+    guid: 03d2f8dd3c67fe84cbfbd5fbdbce3220
+  - enabled: 1
+    path: Assets/Scenes/PlayExplain2.unity
+    guid: 67106ff67b4c91845992e09f0dcc4019
+  - enabled: 1
+    path: Assets/Scenes/Story.unity
+    guid: 63eb1b91b6fcb4e4485ce965bcfbc1dc
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelect.unity
+    guid: b5bde600c205c73499ab1a37d3c8ba95
+  - enabled: 1
+    path: Assets/Scenes/FirstMap.unity
+    guid: 28af3660a5af7704881bd688bae80c07
+  - enabled: 1
+    path: Assets/Scenes/SecondMap.unity
+    guid: 5ff505e0c89f0ec49b5a76db2381141a
+  - enabled: 1
+    path: Assets/Scenes/ThirdMap.unity
+    guid: af61daeb3e39b674a816b7b02be4ca52
+  - enabled: 1
+    path: Assets/Scenes/FourthMap.unity
+    guid: 7846c9bfd101e9d4594b691bf8d78ad8
+  - enabled: 1
+    path: Assets/Scenes/FifthMap.unity
+    guid: 8c8c36dbc8427bf4a89cc565f7101cfa
+  - enabled: 1
+    path: Assets/Scenes/FinalMap.unity
+    guid: 8ecb9ef4cd8dd0447a6d2082ad27457e
+  - enabled: 1
+    path: Assets/Scenes/HappyEnding.unity
+    guid: 340aaedd381b4f445ba2d5adda1018f3
+  - enabled: 1
+    path: Assets/Scenes/BadEnding.unity
+    guid: 2c050f7aa4227e54fbd06dcdd1e8976d
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 5c93e3b9be2da634da3bbcee3254d172, type: 2}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BigEnemy7Spawner
+  - SmallEnemy10Spawner
+  - SmallEnemy4Spawner
+  - SmallEnemy7Spawner
+  - BigEnemy2Spawner
+  - SmallEnemy11Spawner
+  - SmallEnemy8Spawner
+  - BigEnemy9Spawner
+  - BigEnemy8Spawner
+  - SmallEnemy3Spawner
+  - BigEnemy4Spawner
+  - SmallEnemy9Spawner
+  - BigEnemy6Spawner
+  - SmallEnemy15Spawner
+  - SmallEnemy6Spawner
+  - BigEnemy1Spawner
+  - BigEnemy3Spawner
+  - SmallEnemy5Spawner
+  - SmallEnemy2Spawner
+  - SmallEnemy1Spawner
+  - BigEnemy5Spawner
+  - SmallEnemy14Spawner
+  - SmallEnemy12Spawner
+  - SmallEnemy13Spawner
+  - BigEnemy10Spawner
+  - BigEnemy
+  - SmallEnemy
+  - Boss
+  - PlayerBullet
+  - PlayerArrow
+  - PlayerSword
+  - PlayerMagic
+  - PlayerHeal
+  - PlayerStrength
+  - PlayerWeapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - PlayerDamaged
+  - PlayerStrength
+  - PlayerHeal
+  - SmallEnemy
+  - BigEnemy
+  - Boss
+  - Wall
+  - Decoration
+  - Minimap
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

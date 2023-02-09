@@ -1,0 +1,211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8994316968706500843
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8994316968706500842}
+  - component: {fileID: 8994316968706500841}
+  - component: {fileID: 8994316968706500840}
+  - component: {fileID: 8994316968706500823}
+  - component: {fileID: 8994316968706500822}
+  - component: {fileID: 8994316968706500821}
+  m_Layer: 7
+  m_Name: Stap
+  m_TagString: PlayerWeapon
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8994316968706500842
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8994316968706500843}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.2, z: 0}
+  m_LocalScale: {x: 0.6, y: 0.6, z: 0.6}
+  m_Children:
+  - {fileID: 8994316970381149812}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &8994316968706500841
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8994316968706500843}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 3
+  m_Sprite: {fileID: 3232711127753536325, guid: 3d7867b4a15820d43bdda726aed4fc26, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.5, y: 1.875}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &8994316968706500840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8994316968706500843}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47eb4a88326707241b86085ac10d94d5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlayerWInventory: {fileID: 8994316968706500822}
+  Pos: {fileID: 8994316970381149812}
+  cooltime: 0.5
+  AttackJoyStick: {fileID: 6688041982296157892, guid: 58fb859570da48549a02a944cce0f543, type: 3}
+--- !u!114 &8994316968706500823
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8994316968706500843}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93fa7e6aef3663a4ba2a2d1de2a35dca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlayerMInventory: {fileID: 8994316968706500821}
+  cooltime: 0.01
+--- !u!114 &8994316968706500822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8994316968706500843}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24d43c8a24ad2be488fe2e257b53ebde, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  weaponslotUI:
+  - {fileID: 706667968512173269, guid: d2dfaf2068e6a6d4fb878aea37a0f223, type: 3}
+  - {fileID: 7964816064148121582, guid: b2fbedb3860575c438a010edb6983f84, type: 3}
+  - {fileID: 2177852243988998520, guid: a2d01f34f73c09c4b8c3b4c0086d8134, type: 3}
+  - {fileID: 2762894054751185135, guid: 681667792b4fa774aa94e51df96f34cd, type: 3}
+  - {fileID: 900883936990888239, guid: 573b1122c5ce6514bb63325c15966d3d, type: 3}
+  allWeaponInPossesion:
+  - {fileID: 6915862714372391867, guid: bc7504bc31b1de74cbd9314d4dd80243, type: 3}
+  - {fileID: 342683259749924503, guid: d60789831e3fd3c4facca6944766002c, type: 3}
+  - {fileID: 1110833484619762517, guid: 236d7716b90859243b3f89cb13b923e7, type: 3}
+  - {fileID: 8394864799644210722, guid: c2589effe7cbf9d45a4b972f07553293, type: 3}
+  - {fileID: 186692539798605150, guid: d1f242ae8f40d2d4da2cc6c87d997e79, type: 3}
+  currentWeaponIndex: 0
+  currentWeapon: {fileID: 0}
+--- !u!114 &8994316968706500821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8994316968706500843}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25472e9d1d33d16408501df6ae8241fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  magicslotUI:
+  - {fileID: 3469214150595882802, guid: 7e1a7f4cc1bb2b343b06ea94fb7b71b9, type: 3}
+  - {fileID: 5381811601080096697, guid: 2f47ea80f35c8c445bb0a8f723567ccd, type: 3}
+  - {fileID: 311244049706776812, guid: 71c7b80430165e84298c1569fbf07d05, type: 3}
+  - {fileID: 4978283978603243330, guid: 94f314454a402cb4688eb2cdd32a8e55, type: 3}
+  - {fileID: 2033956597044573250, guid: 10b4e42b74c588e47b5d15037fc36a7c, type: 3}
+  - {fileID: 129197847228724171, guid: b856137840eaa524585bcaea5e4e5901, type: 3}
+  - {fileID: 5528431221074954725, guid: 301d00b6bc7947a4c8d4fa304680269b, type: 3}
+  - {fileID: 2219412245214105872, guid: 43575402d7145a540a87298626b51f55, type: 3}
+  - {fileID: 1216967472782671234, guid: e677c81e28f5b984b83a8391c7af3048, type: 3}
+  - {fileID: 1121055346766449895, guid: 714483e30881d0d47aadc605981ef24e, type: 3}
+  allMagicInPosession:
+  - {fileID: 8843376030798587260, guid: 2aca159ae9fc2864f8be2df3e45cf4ac, type: 3}
+  - {fileID: 2213076933257102779, guid: 4340a9fb6fe927547a9786aa94fd3567, type: 3}
+  - {fileID: 7732346543215949821, guid: c2ecd390123bfc046b44329801b4576a, type: 3}
+  - {fileID: 1314150111025166477, guid: 3b71a8bfd9eacc3468505eb44ad82291, type: 3}
+  - {fileID: 4972860686387483061, guid: 8c2face7a881ae449a45c5279bf51d2a, type: 3}
+  - {fileID: 5885755988671778207, guid: 679e219c742d01a4fb616a3a3e97d6d4, type: 3}
+  - {fileID: 8432823793327149123, guid: 34d50968eeb39a9448cef84ef77e6114, type: 3}
+  - {fileID: 3003255532455909453, guid: 49554f9097d454d4983186c124205898, type: 3}
+  - {fileID: 2929734582872128280, guid: 1a82afa9fcf347e47b4855a1d674a4d9, type: 3}
+  - {fileID: 53831206556006414, guid: 8c0bfc9f853f05948858d6dffcc226bc, type: 3}
+  currentMagicIndex: -1
+  currentWeapon: {fileID: 0}
+--- !u!1 &8994316970381149813
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8994316970381149812}
+  m_Layer: 7
+  m_Name: Shooter
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8994316970381149812
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8994316970381149813}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.91, y: -0.01, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8994316968706500842}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

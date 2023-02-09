@@ -1,0 +1,4747 @@
+fileFormatVersion: 2
+guid: c50409c3f035b76408fe99190e2aeb0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 946753061179584902
+    second: BoxesBeGoneIconSetReOpened_0
+  - first:
+      213: -4161999626578637771
+    second: BoxesBeGoneIconSetReOpened_1
+  - first:
+      213: -6386922229373346024
+    second: BoxesBeGoneIconSetReOpened_2
+  - first:
+      213: 4159948991996142377
+    second: BoxesBeGoneIconSetReOpened_3
+  - first:
+      213: -8425254207570308577
+    second: BoxesBeGoneIconSetReOpened_4
+  - first:
+      213: -5504475534904063137
+    second: BoxesBeGoneIconSetReOpened_5
+  - first:
+      213: 3414031406912012257
+    second: BoxesBeGoneIconSetReOpened_6
+  - first:
+      213: -1194391249465431972
+    second: BoxesBeGoneIconSetReOpened_7
+  - first:
+      213: 3084270914887729709
+    second: BoxesBeGoneIconSetReOpened_8
+  - first:
+      213: 3913971169480115298
+    second: BoxesBeGoneIconSetReOpened_9
+  - first:
+      213: -3979137972781828314
+    second: BoxesBeGoneIconSetReOpened_10
+  - first:
+      213: 6843539533772322725
+    second: BoxesBeGoneIconSetReOpened_11
+  - first:
+      213: -4383676876259092012
+    second: BoxesBeGoneIconSetReOpened_12
+  - first:
+      213: 8518531001785934817
+    second: BoxesBeGoneIconSetReOpened_13
+  - first:
+      213: 3709401116841449957
+    second: BoxesBeGoneIconSetReOpened_14
+  - first:
+      213: -2759597574317978075
+    second: BoxesBeGoneIconSetReOpened_15
+  - first:
+      213: -4071578318294862720
+    second: BoxesBeGoneIconSetReOpened_16
+  - first:
+      213: -8152541284625456441
+    second: BoxesBeGoneIconSetReOpened_17
+  - first:
+      213: 2213958919606745762
+    second: BoxesBeGoneIconSetReOpened_18
+  - first:
+      213: 1571759815132525852
+    second: BoxesBeGoneIconSetReOpened_19
+  - first:
+      213: -5830031027239338022
+    second: BoxesBeGoneIconSetReOpened_20
+  - first:
+      213: -2147421540104268486
+    second: BoxesBeGoneIconSetReOpened_21
+  - first:
+      213: 2179911209754920247
+    second: BoxesBeGoneIconSetReOpened_22
+  - first:
+      213: 6067494665560708537
+    second: BoxesBeGoneIconSetReOpened_23
+  - first:
+      213: -142210008750312862
+    second: BoxesBeGoneIconSetReOpened_24
+  - first:
+      213: 6213826159753437917
+    second: BoxesBeGoneIconSetReOpened_25
+  - first:
+      213: 8649113322413103389
+    second: BoxesBeGoneIconSetReOpened_26
+  - first:
+      213: 8347126736499840841
+    second: BoxesBeGoneIconSetReOpened_27
+  - first:
+      213: -3954996377028910684
+    second: BoxesBeGoneIconSetReOpened_28
+  - first:
+      213: -2206531350794810224
+    second: BoxesBeGoneIconSetReOpened_29
+  - first:
+      213: 4322472485788674809
+    second: BoxesBeGoneIconSetReOpened_30
+  - first:
+      213: 4726899340071651468
+    second: BoxesBeGoneIconSetReOpened_31
+  - first:
+      213: -3281203026799482985
+    second: BoxesBeGoneIconSetReOpened_32
+  - first:
+      213: -1027961973345107391
+    second: BoxesBeGoneIconSetReOpened_33
+  - first:
+      213: 5263726006694061487
+    second: BoxesBeGoneIconSetReOpened_34
+  - first:
+      213: -5189236080015100796
+    second: BoxesBeGoneIconSetReOpened_35
+  - first:
+      213: 2800684418141898559
+    second: BoxesBeGoneIconSetReOpened_36
+  - first:
+      213: -8606525226134566781
+    second: BoxesBeGoneIconSetReOpened_37
+  - first:
+      213: 5342956690796302419
+    second: BoxesBeGoneIconSetReOpened_38
+  - first:
+      213: -2013784735807090830
+    second: BoxesBeGoneIconSetReOpened_39
+  - first:
+      213: -4418358102868285521
+    second: BoxesBeGoneIconSetReOpened_40
+  - first:
+      213: -5618341187078054307
+    second: BoxesBeGoneIconSetReOpened_41
+  - first:
+      213: 4707747008276336826
+    second: BoxesBeGoneIconSetReOpened_42
+  - first:
+      213: 3772078338313239557
+    second: BoxesBeGoneIconSetReOpened_43
+  - first:
+      213: -8559283421137885477
+    second: BoxesBeGoneIconSetReOpened_44
+  - first:
+      213: -2335386092255508188
+    second: BoxesBeGoneIconSetReOpened_45
+  - first:
+      213: -5916610405735618478
+    second: BoxesBeGoneIconSetReOpened_46
+  - first:
+      213: 1048467856660986178
+    second: BoxesBeGoneIconSetReOpened_47
+  - first:
+      213: -8214883567983215051
+    second: BoxesBeGoneIconSetReOpened_48
+  - first:
+      213: -1074268408434989930
+    second: BoxesBeGoneIconSetReOpened_49
+  - first:
+      213: -6299042418654901605
+    second: BoxesBeGoneIconSetReOpened_50
+  - first:
+      213: -7713052086591473757
+    second: BoxesBeGoneIconSetReOpened_51
+  - first:
+      213: -7594356454689354001
+    second: BoxesBeGoneIconSetReOpened_52
+  - first:
+      213: 1407543616680229876
+    second: BoxesBeGoneIconSetReOpened_53
+  - first:
+      213: -8768797974287097819
+    second: BoxesBeGoneIconSetReOpened_54
+  - first:
+      213: 5641845785382132431
+    second: BoxesBeGoneIconSetReOpened_55
+  - first:
+      213: -4760989499474260073
+    second: BoxesBeGoneIconSetReOpened_56
+  - first:
+      213: 608674219770169943
+    second: BoxesBeGoneIconSetReOpened_57
+  - first:
+      213: -4243879221566293692
+    second: BoxesBeGoneIconSetReOpened_58
+  - first:
+      213: 2146475539222286671
+    second: BoxesBeGoneIconSetReOpened_59
+  - first:
+      213: -4520011355056486703
+    second: BoxesBeGoneIconSetReOpened_60
+  - first:
+      213: 7731535749756613171
+    second: BoxesBeGoneIconSetReOpened_61
+  - first:
+      213: 2977086074689889762
+    second: BoxesBeGoneIconSetReOpened_62
+  - first:
+      213: -1196987958080531729
+    second: BoxesBeGoneIconSetReOpened_63
+  - first:
+      213: -2857635325435505777
+    second: BoxesBeGoneIconSetReOpened_64
+  - first:
+      213: -1049012440613367350
+    second: BoxesBeGoneIconSetReOpened_65
+  - first:
+      213: -6960171891142941622
+    second: BoxesBeGoneIconSetReOpened_66
+  - first:
+      213: 1659112287617167165
+    second: BoxesBeGoneIconSetReOpened_67
+  - first:
+      213: 5552222462657800994
+    second: BoxesBeGoneIconSetReOpened_68
+  - first:
+      213: 4198081354519492957
+    second: BoxesBeGoneIconSetReOpened_69
+  - first:
+      213: 3720172667178967130
+    second: BoxesBeGoneIconSetReOpened_70
+  - first:
+      213: 8868219970507043456
+    second: BoxesBeGoneIconSetReOpened_71
+  - first:
+      213: 2594881459163912800
+    second: BoxesBeGoneIconSetReOpened_72
+  - first:
+      213: 4236089933422404511
+    second: BoxesBeGoneIconSetReOpened_73
+  - first:
+      213: 5138145340706133205
+    second: BoxesBeGoneIconSetReOpened_74
+  - first:
+      213: 2711296982663650469
+    second: BoxesBeGoneIconSetReOpened_75
+  - first:
+      213: -4495006720138697335
+    second: BoxesBeGoneIconSetReOpened_76
+  - first:
+      213: -1618590777960108968
+    second: BoxesBeGoneIconSetReOpened_77
+  - first:
+      213: 701337413090953078
+    second: BoxesBeGoneIconSetReOpened_78
+  - first:
+      213: -1194743726363536690
+    second: BoxesBeGoneIconSetReOpened_79
+  - first:
+      213: 3582024192651247710
+    second: BoxesBeGoneIconSetReOpened_80
+  - first:
+      213: 3926450002487057235
+    second: BoxesBeGoneIconSetReOpened_81
+  - first:
+      213: 5217850819909354391
+    second: BoxesBeGoneIconSetReOpened_82
+  - first:
+      213: -6692603513043333493
+    second: BoxesBeGoneIconSetReOpened_83
+  - first:
+      213: 8667665832446553331
+    second: BoxesBeGoneIconSetReOpened_84
+  - first:
+      213: -366123055398040477
+    second: BoxesBeGoneIconSetReOpened_85
+  - first:
+      213: -2979805104646084315
+    second: BoxesBeGoneIconSetReOpened_86
+  - first:
+      213: -6338581111773899208
+    second: BoxesBeGoneIconSetReOpened_87
+  - first:
+      213: -5207059069984595994
+    second: BoxesBeGoneIconSetReOpened_88
+  - first:
+      213: 4960617094798383215
+    second: BoxesBeGoneIconSetReOpened_89
+  - first:
+      213: -6886506320949780654
+    second: BoxesBeGoneIconSetReOpened_90
+  - first:
+      213: -996166251990636573
+    second: BoxesBeGoneIconSetReOpened_91
+  - first:
+      213: 7934880277130124981
+    second: BoxesBeGoneIconSetReOpened_92
+  - first:
+      213: -5244833326588656050
+    second: BoxesBeGoneIconSetReOpened_93
+  - first:
+      213: 2284215023430113263
+    second: BoxesBeGoneIconSetReOpened_94
+  - first:
+      213: -1143817041150578414
+    second: BoxesBeGoneIconSetReOpened_95
+  - first:
+      213: 6821984152456368707
+    second: BoxesBeGoneIconSetReOpened_96
+  - first:
+      213: -896022411502539622
+    second: BoxesBeGoneIconSetReOpened_97
+  - first:
+      213: -6609954375338557297
+    second: BoxesBeGoneIconSetReOpened_98
+  - first:
+      213: -8372634965733865996
+    second: BoxesBeGoneIconSetReOpened_99
+  - first:
+      213: 3769007234250986099
+    second: BoxesBeGoneIconSetReOpened_100
+  - first:
+      213: -8464949456244184951
+    second: BoxesBeGoneIconSetReOpened_101
+  - first:
+      213: 392378650122767552
+    second: BoxesBeGoneIconSetReOpened_102
+  - first:
+      213: -3624481152826253515
+    second: BoxesBeGoneIconSetReOpened_103
+  - first:
+      213: -4735304639457229597
+    second: BoxesBeGoneIconSetReOpened_104
+  - first:
+      213: 6479157305972174794
+    second: BoxesBeGoneIconSetReOpened_105
+  - first:
+      213: 7878151248420729292
+    second: BoxesBeGoneIconSetReOpened_106
+  - first:
+      213: -4856110742517849596
+    second: BoxesBeGoneIconSetReOpened_107
+  - first:
+      213: -7831791590456592533
+    second: BoxesBeGoneIconSetReOpened_108
+  - first:
+      213: -5111352340892780622
+    second: BoxesBeGoneIconSetReOpened_109
+  - first:
+      213: 3045232597528968823
+    second: BoxesBeGoneIconSetReOpened_110
+  - first:
+      213: -3582151445259364613
+    second: BoxesBeGoneIconSetReOpened_111
+  - first:
+      213: -8901698089042039377
+    second: BoxesBeGoneIconSetReOpened_112
+  - first:
+      213: 3032058451752957681
+    second: BoxesBeGoneIconSetReOpened_113
+  - first:
+      213: 7806723240348458542
+    second: BoxesBeGoneIconSetReOpened_114
+  - first:
+      213: -1626427042538807260
+    second: BoxesBeGoneIconSetReOpened_115
+  - first:
+      213: 1470432709449867527
+    second: BoxesBeGoneIconSetReOpened_116
+  - first:
+      213: -7440931575287014576
+    second: BoxesBeGoneIconSetReOpened_117
+  - first:
+      213: 5277313006129102634
+    second: BoxesBeGoneIconSetReOpened_118
+  - first:
+      213: -5643950017265040848
+    second: BoxesBeGoneIconSetReOpened_119
+  - first:
+      213: 6449614017721794942
+    second: BoxesBeGoneIconSetReOpened_120
+  - first:
+      213: -487179953740085595
+    second: BoxesBeGoneIconSetReOpened_121
+  - first:
+      213: -3937069830515931665
+    second: BoxesBeGoneIconSetReOpened_122
+  - first:
+      213: 8055265082314118280
+    second: BoxesBeGoneIconSetReOpened_123
+  - first:
+      213: -1023277108499930582
+    second: BoxesBeGoneIconSetReOpened_124
+  - first:
+      213: -4709605620562005154
+    second: BoxesBeGoneIconSetReOpened_125
+  - first:
+      213: 238198388652225731
+    second: BoxesBeGoneIconSetReOpened_126
+  - first:
+      213: 8860409739661219522
+    second: BoxesBeGoneIconSetReOpened_127
+  - first:
+      213: -8832768236196441551
+    second: BoxesBeGoneIconSetReOpened_128
+  - first:
+      213: -379512873056345361
+    second: BoxesBeGoneIconSetReOpened_129
+  - first:
+      213: -1448022102689986227
+    second: BoxesBeGoneIconSetReOpened_130
+  - first:
+      213: -4526546768390108776
+    second: BoxesBeGoneIconSetReOpened_131
+  - first:
+      213: 5437439532352410540
+    second: BoxesBeGoneIconSetReOpened_132
+  - first:
+      213: -8652397569759433520
+    second: BoxesBeGoneIconSetReOpened_133
+  - first:
+      213: 7667978178821347531
+    second: BoxesBeGoneIconSetReOpened_134
+  - first:
+      213: 1087349694809070790
+    second: BoxesBeGoneIconSetReOpened_135
+  - first:
+      213: -8816110495284197374
+    second: BoxesBeGoneIconSetReOpened_136
+  - first:
+      213: -101839552460333684
+    second: BoxesBeGoneIconSetReOpened_137
+  - first:
+      213: -4363987012957675032
+    second: BoxesBeGoneIconSetReOpened_138
+  - first:
+      213: 4121283212482407560
+    second: BoxesBeGoneIconSetReOpened_139
+  - first:
+      213: 7128452552566387915
+    second: BoxesBeGoneIconSetReOpened_140
+  - first:
+      213: 1793822482522016168
+    second: BoxesBeGoneIconSetReOpened_141
+  - first:
+      213: -5603762404982535010
+    second: BoxesBeGoneIconSetReOpened_142
+  - first:
+      213: -8831601015790991688
+    second: BoxesBeGoneIconSetReOpened_143
+  - first:
+      213: 7759892653987323169
+    second: BoxesBeGoneIconSetReOpened_144
+  - first:
+      213: -2534501759132362730
+    second: BoxesBeGoneIconSetReOpened_145
+  - first:
+      213: 1241390772629822042
+    second: BoxesBeGoneIconSetReOpened_146
+  - first:
+      213: -5098516080052502447
+    second: BoxesBeGoneIconSetReOpened_147
+  - first:
+      213: -3379306658082603714
+    second: BoxesBeGoneIconSetReOpened_148
+  - first:
+      213: -2314517232573144159
+    second: BoxesBeGoneIconSetReOpened_149
+  - first:
+      213: -3433775021574842903
+    second: BoxesBeGoneIconSetReOpened_150
+  - first:
+      213: -3217403159102401552
+    second: BoxesBeGoneIconSetReOpened_151
+  - first:
+      213: -3913259257122662931
+    second: BoxesBeGoneIconSetReOpened_152
+  - first:
+      213: -3107907856658300212
+    second: BoxesBeGoneIconSetReOpened_153
+  - first:
+      213: -5123001221000948005
+    second: BoxesBeGoneIconSetReOpened_154
+  - first:
+      213: 7631553704590247967
+    second: BoxesBeGoneIconSetReOpened_155
+  - first:
+      213: -6750314411127283349
+    second: BoxesBeGoneIconSetReOpened_156
+  - first:
+      213: -596554133597927267
+    second: BoxesBeGoneIconSetReOpened_157
+  - first:
+      213: -1148685088601378026
+    second: BoxesBeGoneIconSetReOpened_158
+  - first:
+      213: -9207969438109091184
+    second: BoxesBeGoneIconSetReOpened_159
+  - first:
+      213: -230585204736423364
+    second: BoxesBeGoneIconSetReOpened_160
+  - first:
+      213: -1462768829937665764
+    second: BoxesBeGoneIconSetReOpened_161
+  - first:
+      213: 4048130950544262594
+    second: BoxesBeGoneIconSetReOpened_162
+  - first:
+      213: 2156296460651510930
+    second: BoxesBeGoneIconSetReOpened_163
+  - first:
+      213: 1242683883972642036
+    second: BoxesBeGoneIconSetReOpened_164
+  - first:
+      213: 5202656547090594233
+    second: BoxesBeGoneIconSetReOpened_165
+  - first:
+      213: 2445105143689381559
+    second: BoxesBeGoneIconSetReOpened_166
+  - first:
+      213: -7441456819612404721
+    second: BoxesBeGoneIconSetReOpened_167
+  - first:
+      213: -4715456530499180986
+    second: BoxesBeGoneIconSetReOpened_168
+  - first:
+      213: 1068285961615826824
+    second: BoxesBeGoneIconSetReOpened_169
+  - first:
+      213: -7248009879343507287
+    second: BoxesBeGoneIconSetReOpened_170
+  - first:
+      213: 355506658185426819
+    second: BoxesBeGoneIconSetReOpened_171
+  - first:
+      213: 4453866542263540398
+    second: BoxesBeGoneIconSetReOpened_172
+  - first:
+      213: -7042933889739066184
+    second: BoxesBeGoneIconSetReOpened_173
+  - first:
+      213: -7322106979021989540
+    second: BoxesBeGoneIconSetReOpened_174
+  - first:
+      213: -8865085834352373622
+    second: BoxesBeGoneIconSetReOpened_175
+  - first:
+      213: -848916584108574680
+    second: BoxesBeGoneIconSetReOpened_176
+  - first:
+      213: -7207090019021384416
+    second: BoxesBeGoneIconSetReOpened_177
+  - first:
+      213: 3889763780938442536
+    second: BoxesBeGoneIconSetReOpened_178
+  - first:
+      213: -7857405207957030452
+    second: BoxesBeGoneIconSetReOpened_179
+  - first:
+      213: 752964134019132107
+    second: BoxesBeGoneIconSetReOpened_180
+  - first:
+      213: 7562420491147061697
+    second: BoxesBeGoneIconSetReOpened_181
+  - first:
+      213: 4685833215360665932
+    second: BoxesBeGoneIconSetReOpened_182
+  - first:
+      213: 8848281155151243360
+    second: BoxesBeGoneIconSetReOpened_183
+  - first:
+      213: 7037816298565521675
+    second: BoxesBeGoneIconSetReOpened_184
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6817f9d94ea832d00800000000000000
+      internalID: 946753061179584902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cc87e046b9d36c0800000000000000
+      internalID: -4161999626578637771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fd72e52181d57a0800000000000000
+      internalID: -6386922229373346024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923acaf519b1bb930800000000000000
+      internalID: 4159948991996142377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f121867efeb731b80800000000000000
+      internalID: -8425254207570308577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b073b3aac2c93b0800000000000000
+      internalID: -5504475534904063137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef740de973116f20800000000000000
+      internalID: 3414031406912012257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5827cc9c7bac6fe0800000000000000
+      internalID: -1194391249465431972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22c3f05e088dca20800000000000000
+      internalID: 3084270914887729709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2648bf1aa08315630800000000000000
+      internalID: 3913971169480115298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627321c981347c8c0800000000000000
+      internalID: -3979137972781828314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a777d482f229fe50800000000000000
+      internalID: 6843539533772322725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d99b745b1d0a23c0800000000000000
+      internalID: -4383676876259092012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e36a9120d6e73670800000000000000
+      internalID: 8518531001785934817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e995ca99a07a7330800000000000000
+      internalID: 3709401116841449957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e4fbb80a0f3b9d0800000000000000
+      internalID: -2759597574317978075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0843ad67719de77c0800000000000000
+      internalID: -4071578318294862720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2613945ea5cde80800000000000000
+      internalID: -8152541284625456441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aab77648ef89be10800000000000000
+      internalID: 2213958919606745762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15353d693300d510800000000000000
+      internalID: 1571759815132525852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfb4e76ba1971fa0800000000000000
+      internalID: -5830031027239338022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35101f9c73d232e0800000000000000
+      internalID: -2147421540104268486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735855312b9904e10800000000000000
+      internalID: 2179911209754920247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5d2595042143450800000000000000
+      internalID: 6067494665560708537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262bee020c4c60ef0800000000000000
+      internalID: -142210008750312862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2222458f1fb3650800000000000000
+      internalID: 6213826159753437917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d191884edb2d70870800000000000000
+      internalID: 8649113322413103389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9471d38ba83f6d370800000000000000
+      internalID: 8347126736499840841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a12c33efb70d19c0800000000000000
+      internalID: -3954996377028910684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ccc1a5d63d061e0800000000000000
+      internalID: -2206531350794810224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa65da03d18cfb30800000000000000
+      internalID: 4322472485788674809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88cff5d7e1599140800000000000000
+      internalID: 4726899340071651468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7972eaf4b33d672d0800000000000000
+      internalID: -3281203026799482985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142c7281802fbb1f0800000000000000
+      internalID: -1027961973345107391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa52cf72ae28c0940800000000000000
+      internalID: 5263726006694061487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4843f0b67412cf7b0800000000000000
+      internalID: -5189236080015100796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37c15fb3a70ed620800000000000000
+      internalID: 2800684418141898559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3888fc9f7ea7f8880800000000000000
+      internalID: -8606525226134566781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350d5355dcef52a40800000000000000
+      internalID: 5342956690796302419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f4d18c3799d04e0800000000000000
+      internalID: -2013784735807090830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7211407b6dea2c0800000000000000
+      internalID: -4418358102868285521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e14452574a702b0800000000000000
+      internalID: -5618341187078054307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_42
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab018b816f6455140800000000000000
+      internalID: 4707747008276336826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c3b1c634d195430800000000000000
+      internalID: 3772078338313239557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_44
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6af27d311573980800000000000000
+      internalID: -8559283421137885477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_45
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42909b5f8ba079fd0800000000000000
+      internalID: -2335386092255508188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258afbbfe2af3eda0800000000000000
+      internalID: -5916610405735618478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24971bae5f7ec8e00800000000000000
+      internalID: 1048467856660986178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eba235beedefd80800000000000000
+      internalID: -8214883567983215051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694eec1039e6711f0800000000000000
+      internalID: -1074268408434989930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a05f24b4e4598a0800000000000000
+      internalID: -6299042418654901605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a731a42efbb5f490800000000000000
+      internalID: -7713052086591473757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feecb848a0d6b9690800000000000000
+      internalID: -7594356454689354001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbf71e3679988310800000000000000
+      internalID: 1407543616680229876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520e37393b8fe4680800000000000000
+      internalID: -8768797974287097819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca9c3b99dcdb4e40800000000000000
+      internalID: 5641845785382132431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fc87866419dedb0800000000000000
+      internalID: -4760989499474260073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ac65d5af1727800800000000000000
+      internalID: 608674219770169943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44931e04556ba15c0800000000000000
+      internalID: -4243879221566293692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41d8626120d9cd10800000000000000
+      internalID: 2146475539222286671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d64021ee91b541c0800000000000000
+      internalID: -4520011355056486703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_61
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332f97c0dceeb4b60800000000000000
+      internalID: 7731535749756613171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e527abf20cb05920800000000000000
+      internalID: 2977086074689889762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_63
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe290364bc1736fe0800000000000000
+      internalID: -1196987958080531729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f831fc9dfc3a758d0800000000000000
+      internalID: -2857635325435505777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac156404eb82171f0800000000000000
+      internalID: -1049012440613367350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4424c4aa80886f90800000000000000
+      internalID: -6960171891142941622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f28e1d5d9560710800000000000000
+      internalID: 1659112287617167165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ba9a0b9e47d0d40800000000000000
+      internalID: 5552222462657800994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d593352efb4924a30800000000000000
+      internalID: 4198081354519492957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50e15a9455b0a330800000000000000
+      internalID: 3720172667178967130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082f81cc31f321b70800000000000000
+      internalID: 8868219970507043456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a56b750fed20420800000000000000
+      internalID: 2594881459163912800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_73
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f932046c95d99ca30800000000000000
+      internalID: 4236089933422404511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d41e1dd6fb5e4740800000000000000
+      internalID: 5138145340706133205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_75
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac514c9d3670a520800000000000000
+      internalID: 2711296982663650469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985a32f14378e91c0800000000000000
+      internalID: -4495006720138697335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_77
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ce6fa534c9989e0800000000000000
+      internalID: -1618590777960108968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6774afe49a6abb900800000000000000
+      internalID: 701337413090953078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_79
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2997039ea6b6fe0800000000000000
+      internalID: -1194743726363536690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_80
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5045db5608e5b130800000000000000
+      internalID: 3582024192651247710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_81
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b929a597d8d7630800000000000000
+      internalID: 3926450002487057235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7938da3eca7896840800000000000000
+      internalID: 5217850819909354391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e458650981f13a0800000000000000
+      internalID: -6692603513043333493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc64ceb62cb94870800000000000000
+      internalID: 8667665832446553331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c4bea55054beaf0800000000000000
+      internalID: -366123055398040477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529aca58b0b95a6d0800000000000000
+      internalID: -2979805104646084315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_87
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83657b4ef06d808a0800000000000000
+      internalID: -6338581111773899208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef97113d5fccb7b0800000000000000
+      internalID: -5207059069984595994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68103a17f6a7d440800000000000000
+      internalID: 4960617094798383215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_90
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f5e44ccf63e60a0800000000000000
+      internalID: -6886506320949780654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_91
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7addc5218ec22f0800000000000000
+      internalID: -996166251990636573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be189d329b5e1e60800000000000000
+      internalID: 7934880277130124981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_93
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e468d86b0eb9637b0800000000000000
+      internalID: -5244833326588656050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_94
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe79926267923bf10800000000000000
+      internalID: 2284215023430113263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_95
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2117e2616785020f0800000000000000
+      internalID: -1143817041150578414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_96
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3429186317e8cae50800000000000000
+      internalID: 6821984152456368707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c2a933d50b093f0800000000000000
+      internalID: -896022411502539622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8008644489b444a0800000000000000
+      internalID: -6609954375338557297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_99
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f50b69dbdc6ecb80800000000000000
+      internalID: -8372634965733865996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_100
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37258694c143e4430800000000000000
+      internalID: 3769007234250986099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988edea9155768a80800000000000000
+      internalID: -8464949456244184951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_102
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccc30aad42027500800000000000000
+      internalID: 392378650122767552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f51b6489143bdc0800000000000000
+      internalID: -3624481152826253515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e484e5e481d84eb0800000000000000
+      internalID: -4735304639457229597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_105
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf2952ed379ae950800000000000000
+      internalID: 6479157305972174794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_106
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1fae8f1d0d45d60800000000000000
+      internalID: 7878151248420729292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402e34a2201ab9cb0800000000000000
+      internalID: -4856110742517849596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_108
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6771f70b03ef4390800000000000000
+      internalID: -7831791590456592533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_109
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b779378024d019b0800000000000000
+      internalID: -5111352340892780622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_110
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e7722c9e6d24a20800000000000000
+      internalID: 3045232597528968823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_111
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6d9a55d34a94ec0800000000000000
+      internalID: -3582151445259364613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_112
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad20e050c0d67480800000000000000
+      internalID: -8901698089042039377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6b4fae819041a20800000000000000
+      internalID: 3032058451752957681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e91c0ec6d075c60800000000000000
+      internalID: 7806723240348458542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420a264d835cd69e0800000000000000
+      internalID: -1626427042538807260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_116
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701efd032c6086410800000000000000
+      internalID: 1470432709449867527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_117
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b9701f7208cb890800000000000000
+      internalID: -7440931575287014576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_118
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fbfdaf738cc3940800000000000000
+      internalID: 5277313006129102634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_119
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0328bdabc59aca1b0800000000000000
+      internalID: -5643950017265040848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_120
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7100b017c1a18950800000000000000
+      internalID: 6449614017721794942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_121
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a681abc9603d39f0800000000000000
+      internalID: -487179953740085595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_122
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5c03049d7bc59c0800000000000000
+      internalID: -3937069830515931665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_123
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884d0fae9ec0acf60800000000000000
+      internalID: 8055265082314118280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_124
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22a21134e69cc1f0800000000000000
+      internalID: -1023277108499930582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_125
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53f73204ae14aeb0800000000000000
+      internalID: -4709605620562005154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_126
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4bfa52c204e4300800000000000000
+      internalID: 238198388652225731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c61be8b6bf76fa70800000000000000
+      internalID: 8860409739661219522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_128
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13258225614bb6580800000000000000
+      internalID: -8832768236196441551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2e9cd7d03bbbaf0800000000000000
+      internalID: -379512873056345361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_130
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49cf3ec19797ebe0800000000000000
+      internalID: -1448022102689986227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_131
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8994ae262b97e21c0800000000000000
+      internalID: -4526546768390108776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_132
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca31885227aa57b40800000000000000
+      internalID: 5437439532352410540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_133
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc290fa0428ce780800000000000000
+      internalID: -8652397569759433520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_134
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8d716e6812a6a60800000000000000
+      internalID: 7667978178821347531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_135
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc59b159ca071f00800000000000000
+      internalID: 1087349694809070790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_136
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2080efbd632e6a580800000000000000
+      internalID: -8816110495284197374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d54837771369ef0800000000000000
+      internalID: -101839552460333684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_138
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e16d30eee00073c0800000000000000
+      internalID: -4363987012957675032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_139
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c6bca0f3db13930800000000000000
+      internalID: 4121283212482407560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_140
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc432f114d95de260800000000000000
+      internalID: 7128452552566387915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_141
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a985d43b00f4e810800000000000000
+      internalID: 1793822482522016168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_142
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cc35d58cf6b32b0800000000000000
+      internalID: -5603762404982535010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_143
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b68ccffaa9df6580800000000000000
+      internalID: -8831601015790991688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dd310514da0bb60800000000000000
+      internalID: 7759892653987323169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61810541414a3dcd0800000000000000
+      internalID: -2534501759132362730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a5c0e945e4a3110800000000000000
+      internalID: 1241390772629822042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1508ad663ae6e39b0800000000000000
+      internalID: -5098516080052502447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dbfd1bf7a4a11d0800000000000000
+      internalID: -3379306658082603714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a325fdf6de21efd0800000000000000
+      internalID: -2314517232573144159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e51c609fc7c850d0800000000000000
+      internalID: -3433775021574842903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f35b729fdc7953d0800000000000000
+      internalID: -3217403159102401552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5d131607f41b9c0800000000000000
+      internalID: -3913259257122662931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc28c31554e7ed4d0800000000000000
+      internalID: -3107907856658300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd69856488177e8b0800000000000000
+      internalID: -5123001221000948005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f180b6e19a9b8e960800000000000000
+      internalID: 7631553704590247967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61ee8acec01252a0800000000000000
+      internalID: -6750314411127283349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98ca991d2d98b7f0800000000000000
+      internalID: -596554133597927267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61370277ffc0f00f0800000000000000
+      internalID: -1148685088601378026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09abadaf498b63080800000000000000
+      internalID: -9207969438109091184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a893d5afbccccf0800000000000000
+      internalID: -230585204736423364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c193d0fcf7333bbe0800000000000000
+      internalID: -1462768829937665764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5847fc6a9dd2830800000000000000
+      internalID: 4048130950544262594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cb097d434bced10800000000000000
+      internalID: 2156296460651510930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4ca409866ee3110800000000000000
+      internalID: 1242683883972642036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9f1b1909c833840800000000000000
+      internalID: 5202656547090594233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b606186c22cee120800000000000000
+      internalID: 2445105143689381559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f043897f272aab890800000000000000
+      internalID: -7441456819612404721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646ecc1e4455f8eb0800000000000000
+      internalID: -4715456530499180986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fd5ac0c6053de00800000000000000
+      internalID: 1068285961615826824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a855359a65e96b90800000000000000
+      internalID: -7248009879343507287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387bd6c0c630fe400800000000000000
+      internalID: 355506658185426819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa9d98c5005fcd30800000000000000
+      internalID: 4453866542263540398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4fa8d31f8724e90800000000000000
+      internalID: -7042933889739066184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c595cfb2f76a26a90800000000000000
+      internalID: -7322106979021989540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8054142763e8f480800000000000000
+      internalID: -8865085834352373622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82835405dda0834f0800000000000000
+      internalID: -848916584108574680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02597ffffc54bfb90800000000000000
+      internalID: -7207090019021384416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8272407cc873bf530800000000000000
+      internalID: 3889763780938442536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9ba6bf793e4f290800000000000000
+      internalID: -7857405207957030452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcae1d8f3e0137a00800000000000000
+      internalID: 752964134019132107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_181
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9a4f88e5d13f860800000000000000
+      internalID: 7562420491147061697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_182
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c498c469b7c670140800000000000000
+      internalID: 4685833215360665932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_183
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068a29594d86bca70800000000000000
+      internalID: 8848281155151243360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxesBeGoneIconSetReOpened_184
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01d376b2a85ba160800000000000000
+      internalID: 7037816298565521675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BoxesBeGoneIconSetReOpened_93: -5244833326588656050
+      BoxesBeGoneIconSetReOpened_12: -4383676876259092012
+      BoxesBeGoneIconSetReOpened_111: -3582151445259364613
+      BoxesBeGoneIconSetReOpened_127: 8860409739661219522
+      BoxesBeGoneIconSetReOpened_53: 1407543616680229876
+      BoxesBeGoneIconSetReOpened_76: -4495006720138697335
+      BoxesBeGoneIconSetReOpened_26: 8649113322413103389
+      BoxesBeGoneIconSetReOpened_173: -7042933889739066184
+      BoxesBeGoneIconSetReOpened_4: -8425254207570308577
+      BoxesBeGoneIconSetReOpened_52: -7594356454689354001
+      BoxesBeGoneIconSetReOpened_32: -3281203026799482985
+      BoxesBeGoneIconSetReOpened_58: -4243879221566293692
+      BoxesBeGoneIconSetReOpened_90: -6886506320949780654
+      BoxesBeGoneIconSetReOpened_141: 1793822482522016168
+      BoxesBeGoneIconSetReOpened_159: -9207969438109091184
+      BoxesBeGoneIconSetReOpened_50: -6299042418654901605
+      BoxesBeGoneIconSetReOpened_17: -8152541284625456441
+      BoxesBeGoneIconSetReOpened_131: -4526546768390108776
+      BoxesBeGoneIconSetReOpened_3: 4159948991996142377
+      BoxesBeGoneIconSetReOpened_18: 2213958919606745762
+      BoxesBeGoneIconSetReOpened_77: -1618590777960108968
+      BoxesBeGoneIconSetReOpened_21: -2147421540104268486
+      BoxesBeGoneIconSetReOpened_22: 2179911209754920247
+      BoxesBeGoneIconSetReOpened_123: 8055265082314118280
+      BoxesBeGoneIconSetReOpened_33: -1027961973345107391
+      BoxesBeGoneIconSetReOpened_109: -5111352340892780622
+      BoxesBeGoneIconSetReOpened_144: 7759892653987323169
+      BoxesBeGoneIconSetReOpened_7: -1194391249465431972
+      BoxesBeGoneIconSetReOpened_91: -996166251990636573
+      BoxesBeGoneIconSetReOpened_19: 1571759815132525852
+      BoxesBeGoneIconSetReOpened_104: -4735304639457229597
+      BoxesBeGoneIconSetReOpened_6: 3414031406912012257
+      BoxesBeGoneIconSetReOpened_161: -1462768829937665764
+      BoxesBeGoneIconSetReOpened_154: -5123001221000948005
+      BoxesBeGoneIconSetReOpened_108: -7831791590456592533
+      BoxesBeGoneIconSetReOpened_74: 5138145340706133205
+      BoxesBeGoneIconSetReOpened_59: 2146475539222286671
+      BoxesBeGoneIconSetReOpened_35: -5189236080015100796
+      BoxesBeGoneIconSetReOpened_177: -7207090019021384416
+      BoxesBeGoneIconSetReOpened_115: -1626427042538807260
+      BoxesBeGoneIconSetReOpened_140: 7128452552566387915
+      BoxesBeGoneIconSetReOpened_10: -3979137972781828314
+      BoxesBeGoneIconSetReOpened_37: -8606525226134566781
+      BoxesBeGoneIconSetReOpened_107: -4856110742517849596
+      BoxesBeGoneIconSetReOpened_100: 3769007234250986099
+      BoxesBeGoneIconSetReOpened_112: -8901698089042039377
+      BoxesBeGoneIconSetReOpened_181: 7562420491147061697
+      BoxesBeGoneIconSetReOpened_152: -3913259257122662931
+      BoxesBeGoneIconSetReOpened_14: 3709401116841449957
+      BoxesBeGoneIconSetReOpened_87: -6338581111773899208
+      BoxesBeGoneIconSetReOpened_101: -8464949456244184951
+      BoxesBeGoneIconSetReOpened_132: 5437439532352410540
+      BoxesBeGoneIconSetReOpened_178: 3889763780938442536
+      BoxesBeGoneIconSetReOpened_157: -596554133597927267
+      BoxesBeGoneIconSetReOpened_30: 4322472485788674809
+      BoxesBeGoneIconSetReOpened_85: -366123055398040477
+      BoxesBeGoneIconSetReOpened_57: 608674219770169943
+      BoxesBeGoneIconSetReOpened_41: -5618341187078054307
+      BoxesBeGoneIconSetReOpened_48: -8214883567983215051
+      BoxesBeGoneIconSetReOpened_49: -1074268408434989930
+      BoxesBeGoneIconSetReOpened_24: -142210008750312862
+      BoxesBeGoneIconSetReOpened_88: -5207059069984595994
+      BoxesBeGoneIconSetReOpened_106: 7878151248420729292
+      BoxesBeGoneIconSetReOpened_172: 4453866542263540398
+      BoxesBeGoneIconSetReOpened_146: 1241390772629822042
+      BoxesBeGoneIconSetReOpened_66: -6960171891142941622
+      BoxesBeGoneIconSetReOpened_126: 238198388652225731
+      BoxesBeGoneIconSetReOpened_70: 3720172667178967130
+      BoxesBeGoneIconSetReOpened_96: 6821984152456368707
+      BoxesBeGoneIconSetReOpened_73: 4236089933422404511
+      BoxesBeGoneIconSetReOpened_68: 5552222462657800994
+      BoxesBeGoneIconSetReOpened_95: -1143817041150578414
+      BoxesBeGoneIconSetReOpened_97: -896022411502539622
+      BoxesBeGoneIconSetReOpened_160: -230585204736423364
+      BoxesBeGoneIconSetReOpened_148: -3379306658082603714
+      BoxesBeGoneIconSetReOpened_42: 4707747008276336826
+      BoxesBeGoneIconSetReOpened_166: 2445105143689381559
+      BoxesBeGoneIconSetReOpened_182: 4685833215360665932
+      BoxesBeGoneIconSetReOpened_156: -6750314411127283349
+      BoxesBeGoneIconSetReOpened_102: 392378650122767552
+      BoxesBeGoneIconSetReOpened_61: 7731535749756613171
+      BoxesBeGoneIconSetReOpened_164: 1242683883972642036
+      BoxesBeGoneIconSetReOpened_119: -5643950017265040848
+      BoxesBeGoneIconSetReOpened_64: -2857635325435505777
+      BoxesBeGoneIconSetReOpened_143: -8831601015790991688
+      BoxesBeGoneIconSetReOpened_150: -3433775021574842903
+      BoxesBeGoneIconSetReOpened_1: -4161999626578637771
+      BoxesBeGoneIconSetReOpened_163: 2156296460651510930
+      BoxesBeGoneIconSetReOpened_67: 1659112287617167165
+      BoxesBeGoneIconSetReOpened_54: -8768797974287097819
+      BoxesBeGoneIconSetReOpened_114: 7806723240348458542
+      BoxesBeGoneIconSetReOpened_118: 5277313006129102634
+      BoxesBeGoneIconSetReOpened_78: 701337413090953078
+      BoxesBeGoneIconSetReOpened_176: -848916584108574680
+      BoxesBeGoneIconSetReOpened_135: 1087349694809070790
+      BoxesBeGoneIconSetReOpened_179: -7857405207957030452
+      BoxesBeGoneIconSetReOpened_38: 5342956690796302419
+      BoxesBeGoneIconSetReOpened_51: -7713052086591473757
+      BoxesBeGoneIconSetReOpened_23: 6067494665560708537
+      BoxesBeGoneIconSetReOpened_62: 2977086074689889762
+      BoxesBeGoneIconSetReOpened_84: 8667665832446553331
+      BoxesBeGoneIconSetReOpened_136: -8816110495284197374
+      BoxesBeGoneIconSetReOpened_169: 1068285961615826824
+      BoxesBeGoneIconSetReOpened_139: 4121283212482407560
+      BoxesBeGoneIconSetReOpened_180: 752964134019132107
+      BoxesBeGoneIconSetReOpened_25: 6213826159753437917
+      BoxesBeGoneIconSetReOpened_45: -2335386092255508188
+      BoxesBeGoneIconSetReOpened_71: 8868219970507043456
+      BoxesBeGoneIconSetReOpened_155: 7631553704590247967
+      BoxesBeGoneIconSetReOpened_167: -7441456819612404721
+      BoxesBeGoneIconSetReOpened_28: -3954996377028910684
+      BoxesBeGoneIconSetReOpened_133: -8652397569759433520
+      BoxesBeGoneIconSetReOpened_147: -5098516080052502447
+      BoxesBeGoneIconSetReOpened_99: -8372634965733865996
+      BoxesBeGoneIconSetReOpened_2: -6386922229373346024
+      BoxesBeGoneIconSetReOpened_65: -1049012440613367350
+      BoxesBeGoneIconSetReOpened_36: 2800684418141898559
+      BoxesBeGoneIconSetReOpened_92: 7934880277130124981
+      BoxesBeGoneIconSetReOpened_170: -7248009879343507287
+      BoxesBeGoneIconSetReOpened_55: 5641845785382132431
+      BoxesBeGoneIconSetReOpened_9: 3913971169480115298
+      BoxesBeGoneIconSetReOpened_60: -4520011355056486703
+      BoxesBeGoneIconSetReOpened_82: 5217850819909354391
+      BoxesBeGoneIconSetReOpened_124: -1023277108499930582
+      BoxesBeGoneIconSetReOpened_89: 4960617094798383215
+      BoxesBeGoneIconSetReOpened_153: -3107907856658300212
+      BoxesBeGoneIconSetReOpened_0: 946753061179584902
+      BoxesBeGoneIconSetReOpened_20: -5830031027239338022
+      BoxesBeGoneIconSetReOpened_113: 3032058451752957681
+      BoxesBeGoneIconSetReOpened_98: -6609954375338557297
+      BoxesBeGoneIconSetReOpened_69: 4198081354519492957
+      BoxesBeGoneIconSetReOpened_80: 3582024192651247710
+      BoxesBeGoneIconSetReOpened_63: -1196987958080531729
+      BoxesBeGoneIconSetReOpened_75: 2711296982663650469
+      BoxesBeGoneIconSetReOpened_151: -3217403159102401552
+      BoxesBeGoneIconSetReOpened_142: -5603762404982535010
+      BoxesBeGoneIconSetReOpened_40: -4418358102868285521
+      BoxesBeGoneIconSetReOpened_46: -5916610405735618478
+      BoxesBeGoneIconSetReOpened_31: 4726899340071651468
+      BoxesBeGoneIconSetReOpened_165: 5202656547090594233
+      BoxesBeGoneIconSetReOpened_79: -1194743726363536690
+      BoxesBeGoneIconSetReOpened_171: 355506658185426819
+      BoxesBeGoneIconSetReOpened_184: 7037816298565521675
+      BoxesBeGoneIconSetReOpened_27: 8347126736499840841
+      BoxesBeGoneIconSetReOpened_110: 3045232597528968823
+      BoxesBeGoneIconSetReOpened_130: -1448022102689986227
+      BoxesBeGoneIconSetReOpened_125: -4709605620562005154
+      BoxesBeGoneIconSetReOpened_174: -7322106979021989540
+      BoxesBeGoneIconSetReOpened_29: -2206531350794810224
+      BoxesBeGoneIconSetReOpened_81: 3926450002487057235
+      BoxesBeGoneIconSetReOpened_11: 6843539533772322725
+      BoxesBeGoneIconSetReOpened_121: -487179953740085595
+      BoxesBeGoneIconSetReOpened_117: -7440931575287014576
+      BoxesBeGoneIconSetReOpened_5: -5504475534904063137
+      BoxesBeGoneIconSetReOpened_56: -4760989499474260073
+      BoxesBeGoneIconSetReOpened_105: 6479157305972174794
+      BoxesBeGoneIconSetReOpened_83: -6692603513043333493
+      BoxesBeGoneIconSetReOpened_129: -379512873056345361
+      BoxesBeGoneIconSetReOpened_158: -1148685088601378026
+      BoxesBeGoneIconSetReOpened_183: 8848281155151243360
+      BoxesBeGoneIconSetReOpened_15: -2759597574317978075
+      BoxesBeGoneIconSetReOpened_149: -2314517232573144159
+      BoxesBeGoneIconSetReOpened_122: -3937069830515931665
+      BoxesBeGoneIconSetReOpened_44: -8559283421137885477
+      BoxesBeGoneIconSetReOpened_162: 4048130950544262594
+      BoxesBeGoneIconSetReOpened_116: 1470432709449867527
+      BoxesBeGoneIconSetReOpened_175: -8865085834352373622
+      BoxesBeGoneIconSetReOpened_145: -2534501759132362730
+      BoxesBeGoneIconSetReOpened_103: -3624481152826253515
+      BoxesBeGoneIconSetReOpened_16: -4071578318294862720
+      BoxesBeGoneIconSetReOpened_34: 5263726006694061487
+      BoxesBeGoneIconSetReOpened_39: -2013784735807090830
+      BoxesBeGoneIconSetReOpened_168: -4715456530499180986
+      BoxesBeGoneIconSetReOpened_120: 6449614017721794942
+      BoxesBeGoneIconSetReOpened_8: 3084270914887729709
+      BoxesBeGoneIconSetReOpened_13: 8518531001785934817
+      BoxesBeGoneIconSetReOpened_72: 2594881459163912800
+      BoxesBeGoneIconSetReOpened_86: -2979805104646084315
+      BoxesBeGoneIconSetReOpened_47: 1048467856660986178
+      BoxesBeGoneIconSetReOpened_128: -8832768236196441551
+      BoxesBeGoneIconSetReOpened_138: -4363987012957675032
+      BoxesBeGoneIconSetReOpened_134: 7667978178821347531
+      BoxesBeGoneIconSetReOpened_137: -101839552460333684
+      BoxesBeGoneIconSetReOpened_94: 2284215023430113263
+      BoxesBeGoneIconSetReOpened_43: 3772078338313239557
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
